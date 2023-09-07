@@ -1,0 +1,154 @@
+@media only screen and (max-width: 600px) {
+ 
+#minicircle{
+  display: none;
+}
+
+#landingpage{
+  height: 55vh;
+}
+
+.blocktext .bounding h5{
+    font-size: 10px;
+}
+
+#sh .bounding h5{
+  font-size:10px;
+}
+
+#landingfooter{
+  margin-top: -12rem;
+}
+#iconset{
+  
+  margin-top: -8rem;
+}
+#iconset .circle{
+  display: none;
+}
+#landingfooter a{
+  font-size: 10px;
+}
+#img img{
+  width: 150px;
+  
+}
+#textbox p {
+  font-size: 8px;
+}
+
+#endhead div{
+  letter-spacing: 0;
+  font-size: 10px;
+
+}
+#endhead #eh1{
+  font-size: 8px;
+}
+
+#left span{
+  font-size: 10px;
+}
+
+#right a{
+  font-size: 10px;
+}
+
+  }
+
+  
+  @media only screen and (max-width: 400px) {
+
+nav h4{
+ font-size: 12px;
+}
+nav a{
+  font-size: 12px;
+}
+.circle{
+  height: 13px;
+  width: 13px;
+  
+}
+
+#iconset{
+  font-size: 10px;
+
+}
+
+#iconset .circle{
+  margin-top: 16rem;
+  
+}
+#landingfooter a{
+margin-top: 50px;
+}
+#endhead{
+  margin-bottom: 2rem;
+}
+
+#right a{
+
+  font-size: 8px;
+}
+#lastheadings .elem h6{
+ font-size: 10px;
+}
+#left span{
+  font-size: 8px;
+
+}
+
+}
+
+
+@media only screen and  (max-width: 380px){
+ #iconset {
+  margin-top: 20rem;
+ }
+
+#landingfooter a{
+  margin-top: -6rem;
+}
+
+#lastheadings{
+  margin-top: -10rem;
+}
+}
+
+
+@media only screen and  (max-width:370px){ 
+  #iconset{
+    margin-bottom: -90px;
+  }
+
+
+h6{
+    font-size: 1px;
+  }
+}
+
+@media only screen and (max-width:920px) {
+ #landingpage{
+  height: 50vh;
+ } 
+#minicircle{
+  display: none;
+}
+#iconset .circle{
+  display: none;
+ }
+
+ #lastheadings .elem h6{
+  font-size: 2.5vw;
+ }
+}
+
+@media only screen and (max-width:1030px) {
+
+  #iconset .circle{
+    margin-top: -16rem;
+  }
+  
+}
+
